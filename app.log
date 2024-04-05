@@ -1,0 +1,125 @@
+2024-04-05 07:26:56,486 - INFO - Database connection established.
+2024-04-05 07:26:56,528 - INFO - Data already exists in the database. Skipping data parsing.
+2024-04-05 07:26:56,528 - INFO - Database Search
+2024-04-05 07:27:22,544 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-04-05 07:27:22,546 - DEBUG - http://localhost:8000 "GET /cereals?column=name&value=All-Bran HTTP/1.1" 404 196
+2024-04-05 07:27:31,799 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-04-05 07:27:31,799 - DEBUG - http://localhost:8000 "GET /cereals?column=name&value=cheerios HTTP/1.1" 404 196
+2024-04-05 07:28:44,411 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-04-05 07:28:44,414 - DEBUG - http://localhost:8000 "GET /cereals?column=name&value=&%20%22c:/Users/KOM/OneDrive%20-%20Specialisterne/Skrivebord/W9_l2/.venv/Scripts/python.exe%22%20%22c:/Users/KOM/OneDrive%20-%20Specialisterne/Skrivebord/W9_l2/src/main.py%22 HTTP/1.1" 404 196
+2024-04-05 07:28:46,706 - INFO - Database connection closed.
+2024-04-05 07:28:49,426 - INFO - Database connection established.
+2024-04-05 07:28:49,439 - INFO - Data already exists in the database. Skipping data parsing.
+2024-04-05 07:28:49,439 - INFO - Database Search
+2024-04-05 07:28:55,718 - DEBUG - Starting new HTTP connection (1): localhost:8000
+2024-04-05 07:28:55,720 - DEBUG - http://localhost:8000 "GET /cereals?column=name&value=Cheerios HTTP/1.1" 404 196
+2024-04-05 08:49:50,978 - INFO - Database connection closed.
+2024-04-05 08:59:05,409 - INFO - Database connection established.
+2024-04-05 08:59:05,411 - INFO - Data already exists in the database. Skipping data parsing.
+2024-04-05 08:59:05,412 - INFO - Database Search
+2024-04-05 08:59:12,159 - DEBUG - Starting new HTTP connection (1): localhost:80
+2024-04-05 08:59:16,195 - ERROR - An error occurred: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /cereals?column=name&value=Hej (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C2842A10A0>: Failed to establish a new connection: [WinError 10061] Der kunne ikke oprettes forbindelse, fordi destinationscomputeren aktivt nægtede det'))
+2024-04-05 08:59:16,195 - INFO - Database connection closed.
+2024-04-05 09:00:04,358 - INFO - Database connection established.
+2024-04-05 09:00:04,360 - INFO - Data already exists in the database. Skipping data parsing.
+2024-04-05 09:00:04,361 - INFO - Database Search
+2024-04-05 09:00:15,855 - DEBUG - Starting new HTTP connection (1): localhost:80
+2024-04-05 09:00:19,957 - ERROR - An error occurred: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /cereals?column=name&value=Hej (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001DB91F71880>: Failed to establish a new connection: [WinError 10061] Der kunne ikke oprettes forbindelse, fordi destinationscomputeren aktivt nægtede det'))
+2024-04-05 09:00:19,958 - INFO - Database connection closed.
+2024-04-05 11:15:24,241 - DEBUG - Using proactor: IocpProactor
+2024-04-05 11:16:35,709 - DEBUG - Using proactor: IocpProactor
+2024-04-05 11:20:36,069 - DEBUG - Using proactor: IocpProactor
+2024-04-05 11:21:56,967 - DEBUG - Using proactor: IocpProactor
+2024-04-05 11:21:56,967 - INFO - Data already exists in the database. Skipping data parsing.
+2024-04-05 11:21:56,967 - INFO - Database Search
+2024-04-05 11:22:08,292 - DEBUG - Starting new HTTP connection (1): localhost:80
+2024-04-05 11:22:10,334 - DEBUG - http://localhost:80 "GET /cereals?column=name&value=Cheerios HTTP/1.1" 404 22
+2024-04-05 11:22:10,335 - INFO - Database Search
+2024-04-05 12:05:48,892 - INFO - Data already exists in the database. Skipping data parsing.
+2024-04-05 12:05:48,893 - INFO - Database Search
+2024-04-05 12:05:48,904 - DEBUG - Using proactor: IocpProactor
+2024-04-05 12:05:55,909 - DEBUG - Starting new HTTP connection (1): localhost:80
+2024-04-05 12:05:57,964 - DEBUG - http://localhost:80 "GET /cereals?column=name&value=Cheerios HTTP/1.1" 404 22
+2024-04-05 12:05:57,965 - INFO - Database Search
+2024-04-05 12:18:03,678 - INFO - Data already exists in the database. Skipping data parsing.
+2024-04-05 12:18:03,679 - INFO - Database Search
+2024-04-05 12:18:03,681 - DEBUG - Using proactor: IocpProactor
+2024-04-05 12:18:28,402 - DEBUG - Starting new HTTP connection (1): localhost:80
+2024-04-05 12:18:30,445 - DEBUG - http://localhost:80 "DELETE /cereals/70 HTTP/1.1" 404 22
+2024-04-05 12:18:30,445 - INFO - Database Search
+2024-04-05 12:20:19,329 - INFO - Data already exists in the database. Skipping data parsing.
+2024-04-05 12:20:19,330 - INFO - Database Search
+2024-04-05 12:20:19,330 - DEBUG - Using proactor: IocpProactor
+2024-04-05 12:20:24,975 - DEBUG - Starting new HTTP connection (1): localhost:80
+2024-04-05 12:20:27,024 - DEBUG - http://localhost:80 "DELETE /cereals/70 HTTP/1.1" 404 22
+2024-04-05 12:20:27,024 - INFO - Database Search
+2024-04-05 12:34:59,904 - INFO - Data already exists in the database. Skipping data parsing.
+2024-04-05 12:34:59,904 - INFO - Database Search
+2024-04-05 12:34:59,914 - DEBUG - Using proactor: IocpProactor
+2024-04-05 12:35:16,109 - ERROR - An error occurred: invalid literal for int() with base 10: 'trix'
+2024-04-05 12:37:35,151 - INFO - Data already exists in the database. Skipping data parsing.
+2024-04-05 12:37:35,152 - INFO - Database Search
+2024-04-05 12:37:35,153 - DEBUG - Using proactor: IocpProactor
+2024-04-05 12:37:40,272 - DEBUG - Starting new HTTP connection (1): localhost:80
+2024-04-05 12:37:42,309 - DEBUG - http://localhost:80 "DELETE /cereals/Trix HTTP/1.1" 404 22
+2024-04-05 12:37:42,310 - INFO - Database Search
+2024-04-05 13:10:11,247 - INFO - Data already exists in the database. Skipping data parsing.
+2024-04-05 13:10:11,248 - DEBUG - Using proactor: IocpProactor
+2024-04-05 13:10:11,248 - INFO - Database Search
+2024-04-05 13:13:13,317 - INFO - Database Search
+2024-04-05 13:13:25,484 - INFO - Database Search
+2024-04-05 13:13:42,587 - INFO - Database Search
+2024-04-05 13:13:59,999 - INFO - Database Search
+2024-04-05 13:14:17,847 - DEBUG - Starting new HTTP connection (1): localhost:80
+2024-04-05 13:14:19,888 - DEBUG - http://localhost:80 "DELETE /cereals/Trix HTTP/1.1" 404 22
+2024-04-05 13:14:19,889 - INFO - Database Search
+2024-04-05 13:18:47,122 - INFO - Data already exists in the database. Skipping data parsing.
+2024-04-05 13:18:47,123 - INFO - Database Search
+2024-04-05 13:18:47,125 - DEBUG - Using proactor: IocpProactor
+2024-04-05 13:18:52,149 - DEBUG - Starting new HTTP connection (1): localhost:80
+2024-04-05 13:18:54,163 - DEBUG - http://localhost:80 "DELETE /cereals/Trix HTTP/1.1" 404 22
+2024-04-05 13:18:54,163 - INFO - Database Search
+2024-04-05 13:21:11,750 - INFO - Database Search
+2024-04-05 13:21:25,957 - DEBUG - Starting new HTTP connection (1): localhost:80
+2024-04-05 13:21:27,992 - DEBUG - http://localhost:80 "GET /cereals?column=name&value=Trix HTTP/1.1" 404 22
+2024-04-05 13:21:27,992 - INFO - Database Search
+2024-04-05 13:22:39,368 - INFO - Data already exists in the database. Skipping data parsing.
+2024-04-05 13:22:39,369 - INFO - Database Search
+2024-04-05 13:22:39,370 - DEBUG - Using proactor: IocpProactor
+2024-04-05 13:22:47,927 - DEBUG - Starting new HTTP connection (1): localhost:80
+2024-04-05 13:22:49,972 - DEBUG - http://localhost:80 "GET /cereals?column=name&value=Trix HTTP/1.1" 404 22
+2024-04-05 13:22:49,974 - INFO - Database Search
+2024-04-05 13:26:53,604 - DEBUG - Starting new HTTP connection (1): localhost:80
+2024-04-05 13:26:55,639 - DEBUG - http://localhost:80 "POST /cereals HTTP/1.1" 404 22
+2024-04-05 13:26:55,644 - INFO - Database Search
+2024-04-05 13:52:25,066 - INFO - Data already exists in the database. Skipping data parsing.
+2024-04-05 13:52:25,067 - INFO - Database Search
+2024-04-05 13:52:25,068 - DEBUG - Using proactor: IocpProactor
+2024-04-05 13:52:31,504 - DEBUG - Starting new HTTP connection (1): localhost:80
+2024-04-05 13:52:33,554 - DEBUG - http://localhost:80 "GET /cereals?column=name&value=Trix HTTP/1.1" 404 22
+2024-04-05 13:52:33,554 - INFO - Database Search
+2024-04-05 14:01:47,531 - INFO - Data already exists in the database. Skipping data parsing.
+2024-04-05 14:01:47,532 - INFO - Database Search
+2024-04-05 14:01:47,533 - DEBUG - Using proactor: IocpProactor
+2024-04-05 14:02:21,114 - INFO - Data already exists in the database. Skipping data parsing.
+2024-04-05 14:02:21,115 - DEBUG - Using proactor: IocpProactor
+2024-04-05 14:02:21,115 - INFO - Database Search
+2024-04-05 14:02:33,539 - DEBUG - Starting new HTTP connection (1): localhost:80
+2024-04-05 14:02:35,582 - DEBUG - http://localhost:80 "DELETE /cereals/Trix HTTP/1.1" 404 22
+2024-04-05 14:02:35,582 - INFO - Database Search
+2024-04-05 14:10:12,147 - INFO - Data already exists in the database. Skipping data parsing.
+2024-04-05 14:10:12,148 - INFO - Database Search
+2024-04-05 14:10:12,149 - DEBUG - Using proactor: IocpProactor
+2024-04-05 14:15:41,888 - INFO - Data already exists in the database. Skipping data parsing.
+2024-04-05 14:15:41,889 - INFO - Database Search
+2024-04-05 14:15:41,891 - DEBUG - Using proactor: IocpProactor
+2024-04-05 14:15:50,647 - DEBUG - Starting new HTTP connection (1): localhost:80
+2024-04-05 14:15:52,689 - DEBUG - http://localhost:80 "GET /cereals?column=name&value=Trix HTTP/1.1" 404 22
+2024-04-05 14:15:52,690 - INFO - Database Search
+2024-04-05 14:25:17,714 - DEBUG - Using proactor: IocpProactor
+2024-04-05 14:26:41,651 - INFO - Data already exists in the database. Skipping data parsing.
+2024-04-05 14:26:41,652 - INFO - Database Search
+2024-04-05 14:26:41,653 - DEBUG - Using proactor: IocpProactor
+2024-04-05 14:26:50,056 - DEBUG - Starting new HTTP connection (1): localhost:80
+2024-04-05 14:26:52,091 - DEBUG - http://localhost:80 "GET /cereals?column=name&value=Trix HTTP/1.1" 404 22
+2024-04-05 14:26:52,091 - INFO - Database Search
